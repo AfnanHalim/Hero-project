@@ -1,3 +1,3 @@
 # Hero-project
 This is my first repository Project
-Author - Afnan
+Author - Afnan (Web Developer)
